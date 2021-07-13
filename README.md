@@ -1,6 +1,6 @@
 ## Hey! 👋
 I'm Sagar, a 20 years old Developer.<br>
-I have Created some projects please take a look at it and rate if you like it.🙏<br>
+I have Created some projects please take a look at it and please rate it  if you like it.🙏<br>
 Suggestions are always Welcomed😊
 
 ## Skills
