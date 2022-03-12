@@ -1,3 +1,4 @@
+# Find the Digital Sum of The Digit Untill it Becomes a Single Digit 
 def digitalsum(L):
     sum = 0
     for i in str(L):
