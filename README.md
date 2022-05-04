@@ -13,7 +13,7 @@ Suggestions are always Welcomed😊
 Love Solving Problems and Doing Maths
 Will be available as E-Tutor if someone really wanted to Learn Programming or Mathematics, if Interested Drop a Mail at <a href = "Keen.sagar@gmail.com">Keen.sagar@gmail.com</a>
 
-## Currently Looking For the Job in the IT Sector
+## Currently Looking For the Job in IT Sector
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
