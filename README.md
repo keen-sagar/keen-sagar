@@ -1,12 +1,15 @@
 ## Hey! 👋
 I'm Sagar, a 21 years old Developer.<br>
-I have Created some projects please take a look at it and please rate it  if you like it.🙏<br>
+I have Created some projects and Solved some Problem Statements, feel free to access them and also take a look at my Projects and please rate it  if you like it.🙏<br>
 Suggestions are always Welcomed😊
 
 ## Skills
 - Python ( AI & ML)
+- Data Structures
 - JavaScript
-- Java
+- SQL
+- C++
+
 
 
 ## Interests
